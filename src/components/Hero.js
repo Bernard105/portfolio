@@ -13,12 +13,12 @@ const Hero = () => {
       <div className="container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between">
         <div className="hero-info pb-5 md:pb-0">
           <h1 className="text-4xl lg:text-6xl">
-            Hi, <br />I am <span className="text-accent">a</span>mrin <br />
+            Hi, <br />I am <span className="text-accent">bernard</span>105 <br />
             Frontend Developer
           </h1>
 
           <p className="py-5">
-            I am proficient in JavaScript, React.js and Tailwind CSS
+            I am proficient in JavaScript, React.js, Nodejs and Tailwind CSS
           </p>
 
           <div className="flex py-5 ">
