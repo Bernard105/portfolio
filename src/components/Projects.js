@@ -1,27 +1,27 @@
 import React from "react";
-import cssProjects from "../assets/cssprojects.png";
-import devlog from "../assets/devlog.png";
-import getInspirred from "../assets/get-inspirred.png";
-import uilogs from "../assets/uilogs.png";
+import aoequizz from "../assets/aoe-quizz.png";
+import googleclone from "../assets/google-clone.png";
+import eweb from "../assets/e-web.png";
+import blogmarket from "../assets/blogmarket.png"
 
 const Projects = () => {
   const projects = [
     {
-      img: aoe-quizz,
+      img: aoequizz,
       title: "aoe-quizz",
       desc: " Aoe question ",
       live: "https://aoequizz.vercel.app/",
       code: "https://github.com/Bernard105/aoequizz",
     },
     {
-      img: google-clone,
+      img: googleclone,
       title: "google-clone",
       desc: "Fake display Google",
       live: "taidev105-github-io.vercel.app",
       code: "github.com/Bernard105/taidev105.github.io",
     },
     {
-      img: e-web,
+      img: eweb,
       title: "Ecommerce Website",
       desc: "Build Ecommerce Website",
       live: "lucky-tiramisu-a7df42.netlify.app",
